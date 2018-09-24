@@ -1,0 +1,74 @@
+---Plan de Gestión de Requisitos-------- 
+Martes 04/09/18 - Miércoles 05/09/18
+2 Días
+
+   Propósito: 
+
+      + Documentar y gestionar los requerimientos, por parte del cliente, necesarios para desarrollar el flujo del proyecto
+      + Entrevista con el cliente
+      + Establecer los requerimientos necesarios por el cliente
+
+   
+   Artefactos:
+    
+      # Plan de Gestión de Requisitos
+
+   Staff:
+ 
+      > Analista del sistema
+
+   Acciones: 
+
+      - Se realiza la entrevista con el departamento administrativo del sitio de taxis. 
+      - Se toma nota de los requerimientos necesarios de parte de ellos. 
+      - Se realiza una segunda entrevista con una muestra de los Taxistas de ese sitio para tomar nota de sus necesidades en relación al sistema que se planea construir.
+      - Se documenta toda esta informacion recibida por el cliente en un formato agradable, legible y entendible por ambas partes.
+     
+
+---Desarrollo de Documento de Visión------------------ 
+Jueves 06/09/18
+4 horas
+   Proposito: 
+
+      + Llegar a un acuerdo sobre que problemas deben ser resueltos
+      + Identificar los Stakeholders para el sistema
+      + Definir los limites del sistema
+      + Describir las caracteristicas principales del sistema
+   
+   Artefactos: 
+    
+      # Atributos de requerimientos
+      # Vision
+
+   Staff:
+ 
+      > Analista de sistemas
+
+   Acciones:
+   
+   	  - El cliente identifica que su problema es la falta de control que hay sobre las unidades. No se tiene un registro completo de los datos de estas, ni de los choferes, mucho menos de las tarifas que ocupan. Por eso es se recomienda al cliente que lo más optimo es hacer un sistema donde cada taxista tenga su cuenta, con sus datos de contacto, datos de su unidad, datos de horarios y tarifas. 
+   	  - Se documenta la    
+
+---Modelo de Casos de Uso------------------ Viernes 07/09/18
+Viernes 07/09/18 - Sabado 08/09/18
+2 Días
+   Proposito: 
+
+      + Determinar la funcionalidad del sistema
+      + Determinar quien y como interactuara con el sistema
+      + Dividir el modelo en actores y casos de uso
+      + Crear los diagramas del modelo
+      + Evaluar los resultados
+   
+   Artefactos:
+    
+      # Modelo de Casos de Uso
+
+   Staff:
+ 
+      > Analisita de Sistema
+   Acciones:
+   		
+   	   - Despues de la entrevista con el cliente y de identificar cuales son los requerimientos para que ellos puedan tener un control de cada unidad. Esto incluye al chofer que la conduce, los horarios que maneja, las tarifas que utiliza, datos del vehiculo. Se comenzo a definir el modelo de casos de uso.			
+         - Como se requiere un sistema que administre el sitio de Taxis, entonces necesitamos visualizarlo como dos partes principales: La parte de administración por parte del departamento a cargo; y la parte individual, donde cada chofer tendra su cuenta y podra acceder al sistema con ella. Los choferes solo tendran acceso a su propia cuenta y no tendran acceso al sistema de administración.
+         - Con base en la entrevista que se realizo a los Choferes del mismo sitio. Se obtuvo una idea más clara de como puede ser más intuitivo y más facil para ellos manejar el sistema.    

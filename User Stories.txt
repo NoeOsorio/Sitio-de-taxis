@@ -1,0 +1,25 @@
+//User Stories
+
+- Yo Administrador del sitio de taxis necesito dar de alta, baja y modificar unidades, choferes porque necesito mantener un registro de cada unidad y cada chofer.
+
+- Yo Administrador del sitio de taxis necesito asignar turnos dinamicamente a cada chofer para llevar un control horarios.
+
+- Yo Administrador del Sitio de taxis necesito saber la ubicación de cada unidad en tiempo real por seguridad.
+
+- Yo Chofer de taxi necesito poder recibir peticion de servicio para comenzar un viaje.
+
+- Yo Chofer de taxi necesito poder visualizar la ruta del viaje para poder seguirla.
+
+- Yo Chofer de taxi necesito poder visualizar mis ganancias en el momento que sea porque debo ser remunerado justamente.
+
+- Yo Chofer de taxi necesito poder visualizar datos de mi pasajero para tener más seguridad.
+
+- Yo Chofer de taxi necesito un boton de panico en caso de emergencias por seguridad.
+
+- Yo Pasajero necesito poder solicitar un servicio de taxi a la hora que necesite y que este llegue hasta mi ubicación.
+
+- Yo Pasajero necesito poder visualizar la tarifa que se me va a aplicar en mi viaje junto con el monto total del viaje para decidir si me conviene tomarlo o no.
+
+- Yo Pasajero necesito poder visualizar la ruta de mi viaje para saber por donde me esta llevando el chofer.
+
+- Yo Pasajero necesito un boton de panico en caso de emergencias por seguridad.

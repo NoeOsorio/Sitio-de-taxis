@@ -1,0 +1,102 @@
+---Plan de instalación------------------
+
+   Proposito: 
+
+      + Describir como y cuando estara disponible el producto para ser utilizado por la comunidad
+      + Planear como se producira el software
+      + Planear como se empaquetara el software
+      + Planear como se instalara el software
+      + Gestionar la migración
+      + Proveer de ayuda y asistencia a los usuarios
+   
+   Artefactos:
+    
+      # Plan de instalación
+      # Plan de Desarrollo del Software
+      # Plan de iteración
+      # Plan de aceptación del producto
+
+   Staff:
+ 
+      > Deplyment Manager
+
+---Gestionar pruebas de aceptación------------------
+
+   Proposito: 
+
+      + Asegurar que el producto desarrollado cumpla las espectativas en el desarrollo y la instalción
+      + Asegurar la redaccion formal de las pruebas
+      + Instanciar las pruebas
+      + Evaluar resultados y atender las anomalias
+   
+   Artefactos:
+    
+      # Plan de instalación
+      # Plan de aceptación del producto
+      # Resumen de las evaluaciones
+      # Infraestructura del desarrollo
+      # Solicitud de cambios
+
+   Staff:
+ 
+      > Deplyment Manager
+
+---Acceso a sitio de descarga------------------
+
+   Proposito: 
+
+      + Asegurarse que el producto este disponible para compra y/o descarga a traves de internet
+      + Añadir archivos del producto al servidor
+      + Habilitar acceso al cliente
+      + Habilitar retroalimentación
+   
+   Artefactos:
+    
+      # Plan de instalación
+      # Unidad de instalación
+
+   Staff:
+ 
+      > Deplyment Manager
+
+---Factura de materiales------------------
+
+   Proposito: 
+
+      + Crear una lista completa de artefactos que incluye el paquete. Esta lista incluye: 
+         * Objetos de configuración del software
+         * Documentos y scripts de instalación
+      + Lista de articulos entregables
+      + Dar mantenimiento a la factura de materiales
+   
+   Artefactos:
+    
+      # Factura de materiales
+      # Plan de Desarrollo del Software
+      # Plan de iteración
+      # Plan de aceptación del producto
+
+   Staff:
+ 
+      > Deplyment Manager
+
+---Verficar producto manufacturado------------------
+
+   Proposito: 
+
+      + Asegurarse que el producto este completo y usable.
+      + Funcionar como control de calidad
+      + Verificar el producto con base en la factura de materiales
+      + Seguir las instrucciones de instalación
+      + Enviar el producto a los clientes
+   
+   Artefactos:
+    
+      # Producto
+      # Factura de materiales
+
+   Staff:
+ 
+      > Deplyment Manager     
+
+      

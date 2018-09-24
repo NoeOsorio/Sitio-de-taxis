@@ -1,0 +1,16 @@
+Historia de Usuario:
+	- Yo Administrador del sitio de taxis necesito dar de alta, baja y modificar unidades, choferes porque necesito mantener un registro de cada unidad y cada chofer.
+	- Yo pasajero necesito porder registrarme en el sitio de taxis porque asi puedo usar la aplicacion de forma personal.
+
+Activiades:
+	
+	* Tiempo: 4 hrs
+	> Modelar la base de datos necesaria para que el sitio de taxis pueda guardar informacion sobre cada unidad, choferes y usuarios.
+
+	* Tiempo: 8 hrs
+	> Se crea la base de datos segun el modelo recomendado.
+
+	* Tiempo: 8 hrs
+	> Se crean las funciones de dar de alta, baja y modificar informacion. Para cada entidad (Usuario, Taxista, Unidad).
+
+

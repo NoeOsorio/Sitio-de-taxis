@@ -1,0 +1,45 @@
+Actores: Administrador, Conductor, Usuario.
+
+Casos de Uso:
+
+	 Administrador: Administrar_Unidad, Administrar_Conductor,  							Gestionar_Tarifa.
+
+	 Conductor: Gestionar_Viaje.
+
+	 Usuario: Solcitar_Viaje, Gestionar_Viaje, Pagar, Gestionar_Credenciales.
+
+Detalles de casos de uso:
+
+	Administrar_Unidad:
+		- Alta_Unidad
+		- Baja_Temporal
+		- Baja_Definitiva
+		- Actualizar_Datos
+	Administrar_Conductor:
+		- Alta_Conductor
+		- Baja_Temporal
+		- Baja_Definitiva
+		- Actualizar_Datos
+	Gestionar_Tarifa:
+		- Definir_Tarifa_Unitaria
+		- Modifcar_Tarifa_Unitaria
+	Gestionar_Viaje: 
+		- Aceptar_Viaje
+		- Rechazar_Viaje
+	Solicitar_Viaje:
+		- Solicitar_Viaje
+		- Establecer_Destino
+		- Establecer_Origen
+	Gestionar_Viaje:
+		- Modificar_Destino
+		- Revisar_Tarifa
+		- Cancelar_Viaje
+	Pagar:
+		- Pagar_Viaje
+	Gestionar_Credenciales:
+		- Alta_Usuario
+		- Modificar_Datos_Personales
+		- Modifcar_Datos_Pago
+		- Baja_Usuario						
+
+
